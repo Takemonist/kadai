@@ -1,0 +1,18 @@
+# Requirements for the Post-Apocalyptic Solar-Punk Roguelike Explorer
+# ポストアポカリプス・ソーラーパンク探索ゲーム必要ライブラリ
+
+# Core requirement
+jupyter>=1.0.0
+
+# Optional but recommended for better experience
+ipython>=7.0.0
+notebook>=6.0.0
+
+# Note: The game uses only Python standard library modules:
+# - random
+# - time
+# - enum
+# - dataclasses
+# - typing
+# - sys
+# These are built into Python 3.7+ and require no additional installation.
